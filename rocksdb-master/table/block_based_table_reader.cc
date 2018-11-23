@@ -50,6 +50,7 @@
 #include "util/stop_watch.h"
 #include "util/string_util.h"
 #include "util/sync_point.h"
+#include "pmdk_multiqueue.h"
 
 namespace rocksdb {
 
