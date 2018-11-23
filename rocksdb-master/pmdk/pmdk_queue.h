@@ -10,7 +10,7 @@
 #include <libpmemobj++/persistent_ptr.hpp>
 #include <libpmemobj++/pool.hpp>
 #include <libpmemobj++/transaction.hpp>
-#include <libpmemobj_cpp_examples_common.hpp>
+#include "libpmemobj_cpp_examples_common.hpp"
 #include <stdexcept>
 #include <string>
 #include <sys/stat.h>
